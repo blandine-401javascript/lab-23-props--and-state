@@ -17,9 +17,9 @@ this App is a Counting Game App, you use the minus or the plus sign to decrease 
 - [UML Diagram]()
 
 
-- [PR Link](https://github.com/blandine-401javascript/lab-22-react-testing-and-deployments/pull/1)
+- [PR Link](https://github.com/blandine-401javascript/lab-23-props--and-state/pull/1)
 
 
 
 
-- [App/codesandbox]()
+- [App/codesandbox](https://codesandbox.io/s/shy-shape-0dmbg?file=/src/components/RESTy.js)
