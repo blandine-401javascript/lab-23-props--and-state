@@ -51,8 +51,5 @@ this App is a RESTy app, which is a simple clone of Postman.
 - [PR Link](https://github.com/blandine-401javascript/lab-23-props--and-state/pull/2)
 
 
-- Open codesandbox to run App
-
-- [App/codesandbox](https://codesandbox.io/s/shy-shape-0dmbg?file=/src/components/RESTy.js))
 
 
